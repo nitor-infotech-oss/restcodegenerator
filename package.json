@@ -1,0 +1,42 @@
+{
+  "name": "restcodegenerator",
+  "version": "1.0.0",
+  "description": "Generate Angular 2 UI and node.js REST API easily.",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssmali1505/restcodegenerator.git"
+  },
+  "keywords": [
+    "Code",
+    "generator",
+    "REST",
+    "API",
+    "generator",
+    "Angular",
+    "UI",
+    "generator",
+    "Node.js",
+    "REST",
+    "API"
+  ],
+  "author": "Sandeep Mali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssmali1505/restcodegenerator/issues"
+  },
+  "homepage": "https://github.com/ssmali1505/restcodegenerator/blob/master/README.md",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect-timeout": "^1.9.0",
+    "express": "^4.16.2",
+    "json-to-pretty-yaml": "^1.2.2",
+    "json2yaml": "^1.1.0",
+    "mongoose": "^5.0.4",
+    "swagger-jsdoc": "^3.5.0",
+    "swagger-ui-express": "^4.1.4"
+  }
+}

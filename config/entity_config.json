@@ -1,0 +1,42 @@
+[
+  {
+     "name": "Customer",
+     "fields": {
+        "firstName": {
+           "type": "String",
+           "required": true
+        },
+        "lastName": {
+           "type": "String",
+           "required": true
+        },
+        "mobile": {
+           "type": "String",
+           "required": true
+        },
+        "dob": {
+           "type": "Date"          
+        }
+     }
+  },
+  {
+   "name": "Student",
+   "fields": {
+      "firstName": {
+         "type": "String",
+         "required": true
+      },
+      "lastName": {
+         "type": "String",
+         "required": true
+      },
+      "mobile": {
+         "type": "String",
+         "required": true
+      },
+      "dob": {
+         "type": "Date"          
+      }
+   }
+}
+]
